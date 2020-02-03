@@ -1,8 +1,8 @@
 # IndividueelP3B1
 
-## Informatie
-
 ### Week 2
 
-dsada
+We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
+
+
 
