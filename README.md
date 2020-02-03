@@ -10,5 +10,6 @@ We hebben er voor gekozen om Custom buttons (fp_modules map) te gebruiken. Zodat
 
 Ook hebben we ervoor gekozen om een inlog pagina te maken waarbij de inloggegevens in een database zitten.
 
+Als laatste hebben we een mooi design gemaakt voor de agenda :
 
-
+![alt text](festivalPlannerAgenda.png)
