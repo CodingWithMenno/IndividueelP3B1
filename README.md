@@ -8,8 +8,16 @@ We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
 
 We hebben er voor gekozen om Custom buttons (fp_modules map) te gebruiken. Zodat we redelijk makkelijk een mooi thema kunnen aanhouden zonder elke keer de layout van elk textfield en button aan te passen.
 
+---
+
 Ook hebben we ervoor gekozen om een inlog pagina te maken waarbij de inloggegevens in een database zitten.
 
 Als laatste hebben we een mooi design gemaakt voor de agenda :
 
 ![alt text](festivalPlannerAgenda.png)
+
+We hebben er voor gekozen om een verschuivende agenda te maken d.m.v. 2DGraphics. Dit maakt alles erg gebruiksvriendelijk.
+
+---
+
+
