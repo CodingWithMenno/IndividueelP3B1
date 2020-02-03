@@ -22,4 +22,4 @@ Voor de rest ging het deze week erg goed en hebben we op de projectdag de github
 
 ---
 
-Zelf heb ik de opzet gem
+Zelf heb ik samen met de rest het klassediagram gemaakt, ook heb ik de opzet van de code gemaakt (alle klassen aanmaken, met attributen en goede verbindingen met andere klassen). Daarnaast heb ik vandaag ook de github goed opgezet met branches en alles.
