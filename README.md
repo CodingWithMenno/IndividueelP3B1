@@ -23,3 +23,20 @@ Voor de rest ging het deze week erg goed en hebben we op de projectdag de github
 ---
 
 Zelf heb ik samen met de rest het klassediagram gemaakt, ook heb ik de opzet van de code gemaakt (alle klassen aanmaken, met attributen en goede verbindingen met andere klassen). Daarnaast heb ik vandaag ook de github goed opgezet met branches en alles.
+
+**Wat is de situatie?**
+
+We wisten niet hoe we al het werk over iedereen moesten verdelen qua code schrijven.
+
+**Welke keuzemogelijkheden heb je?**
+
+- We kunnen het werk onder koppels verdelen
+- We kunnen met ze allen samen de GUI gaan maken
+
+**Welke keuze heb je gemaakt?**
+
+We hebben ervoor gekozen om Extreme Programming toe te passen bij ons project, en veel werk te verdelen in koppels. Hierdoor zijn dus 2 mensen aan de slag gegaan met de opzet van het hele project (dat heb ik gedaan), 2 anderen aan het skelet voor de GUI en de laatste 2 hebben het begin van de 2DGraphics agenda gemaakt.
+
+**Waarom heb je deze keuze gemaakt**
+
+Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
