@@ -4,5 +4,5 @@
 
 We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
 
-![alt text](image.jpg)
+![alt text](Class Diagram1.png)
 
