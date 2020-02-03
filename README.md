@@ -18,6 +18,8 @@ Als laatste hebben we een mooi design gemaakt voor de agenda :
 
 We hebben er voor gekozen om een verschuivende agenda te maken d.m.v. 2DGraphics. Dit maakt alles erg gebruiksvriendelijk.
 
+Voor de rest ging het deze week erg goed en hebben we op de projectdag de github volledig goed opgezet, de opzet van de klassen
+
 ---
 
-
+Zelf heb ik de opzet gem
