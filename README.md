@@ -47,10 +47,10 @@ Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 
 ## Week 3
 
-We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken.
+We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. Ook heb ik samen met de rest een paar branches met elkaar gemerched, en de code aangepast aan de codestyle guide
 
 
-Daarnaast had ik bij het maken van dit scherm nog wel een probleem:
+Bij het maken van de StageView klasse had ik nog wel een probleem:
 
 **Wat is de situatie?**
 
