@@ -40,3 +40,9 @@ We hebben ervoor gekozen om Extreme Programming toe te passen bij ons project, e
 **Waarom heb je deze keuze gemaakt**
 
 Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
+
+
+
+### Week 3
+
+We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken.
