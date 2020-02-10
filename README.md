@@ -1,6 +1,6 @@
 # IndividueelP3B1
 
-### Week 2
+## Week 2
 
 We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
 
@@ -47,6 +47,6 @@ Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 
 
 
-### Week 3
+## Week 3
 
-We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken.
+We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. 
