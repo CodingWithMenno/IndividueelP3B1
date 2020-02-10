@@ -49,4 +49,25 @@ Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 
 ## Week 3
 
-We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. 
+We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken.
+
+
+Daarnaast had ik bij het maken van dit scherm nog wel een probleem:
+
+**Wat is de situatie?**
+
+We wisten niet hoe we al het werk over iedereen moesten verdelen qua code schrijven.
+
+**Welke keuzemogelijkheden heb je?**
+
+- We kunnen het werk onder koppels verdelen
+- We kunnen met ze allen samen de GUI gaan maken
+
+**Welke keuze heb je gemaakt?**
+
+We hebben ervoor gekozen om Extreme Programming toe te passen bij ons project, en veel werk te verdelen in koppels. Hierdoor zijn dus 2 mensen aan de slag gegaan met de opzet van het hele project (dat heb ik gedaan), 2 anderen aan het skelet voor de GUI en de laatste 2 hebben het begin van de 2DGraphics agenda gemaakt.
+
+**Waarom heb je deze keuze gemaakt**
+
+Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
+
