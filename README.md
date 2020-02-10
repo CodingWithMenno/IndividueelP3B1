@@ -42,9 +42,7 @@ We hebben ervoor gekozen om Extreme Programming toe te passen bij ons project, e
 Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 
 
-
 ---
-
 
 
 ## Week 3
@@ -56,18 +54,19 @@ Daarnaast had ik bij het maken van dit scherm nog wel een probleem:
 
 **Wat is de situatie?**
 
-We wisten niet hoe we al het werk over iedereen moesten verdelen qua code schrijven.
+Ik wist niet hoe ik stages moest bewerken.
 
 **Welke keuzemogelijkheden heb je?**
 
-- We kunnen het werk onder koppels verdelen
-- We kunnen met ze allen samen de GUI gaan maken
+- Je kan kijken wanneer er een event toevoegd word, of er al een event bestaat met dezelfde naam, en als dit zo is, dat hij het oude event overschrijft met het nieuwe.
+- Je maakt een edit knop, en als je hier op klikt, dan kan je de stage bewerken.
 
 **Welke keuze heb je gemaakt?**
 
-We hebben ervoor gekozen om Extreme Programming toe te passen bij ons project, en veel werk te verdelen in koppels. Hierdoor zijn dus 2 mensen aan de slag gegaan met de opzet van het hele project (dat heb ik gedaan), 2 anderen aan het skelet voor de GUI en de laatste 2 hebben het begin van de 2DGraphics agenda gemaakt.
+Het overschrijven van het oude event door de nieuwe als deze dezelfde naam hebben.
 
 **Waarom heb je deze keuze gemaakt**
 
-Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
+Dit was een makkelijkere oplossing, want ik wist niet hoe je een geselecteerd item uit de listview moest opvragen en bewerken.
+
 
