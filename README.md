@@ -2,15 +2,12 @@
 
 ## Inhoudsopgave
 
-## Week 2
-https://github.com/CodingWithMenno/IndividueelP3B1/blob/master/README.md#week-2
+### Table of contents
+1. [Week 2](#week2)
+2. [Week 3](#week3)
+3. [Week 4](#week4)
 
-## Week 3
-https://github.com/CodingWithMenno/IndividueelP3B1/blob/master/README.md#week-3
-
-## Week 4
-
-## Week 2
+## Week 2 <a name="week2"></a>
 
 We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
 
@@ -55,7 +52,7 @@ Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 ---
 
 
-## Week 3
+## Week 3 <a name="week3"></a>
 
 Er is vandaag verder gegaan met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. Ook heb ik samen met de rest een paar branches met elkaar gemerched, en de code aangepast aan de codestyle guide
 
@@ -83,7 +80,7 @@ Dit was een makkelijkere oplossing, want ik wist niet hoe je een geselecteerd it
 ---
 
 
-## Week 4
+## Week 4 <a name="week4"></a>
 
 Deze week is er gewerkt aan: 
 - De map maken voor de simulatie module
