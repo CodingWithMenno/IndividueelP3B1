@@ -1,5 +1,10 @@
 # IndividueelP3B1
 
+## Inhoudsopgave
+
+## Week 2
+https://github.com/CodingWithMenno/IndividueelP3B1/blob/master/README.md#week-2
+
 ## Week 2
 
 We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
