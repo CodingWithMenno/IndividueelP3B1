@@ -2,10 +2,11 @@
 
 ## Inhoudsopgave
 
-### Table of contents
 1. [Week 2](#week2)
 2. [Week 3](#week3)
 3. [Week 4](#week4)
+
+---
 
 ## Week 2 <a name="week2"></a>
 
