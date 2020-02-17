@@ -89,8 +89,21 @@ Bij het bugs fixen heb ik ervoor gezorgd dat:
 - als een podium word verwijderd worden alle event hierbij ook verwijderd.
 - en als een artiest word verwijderd worden alle events die bij deze artiest horen ook verwijderd.
 
+Bij het bug fixen ben ik tegen het volgende probleem aangekomen:
+
+**Wat is de situatie?**
+
+Ik kreeg de hele tijd een current modification exception tijdens het proberen op te lossen van het verwijderen van alle events die gekoppeld zijn aan een artiest die verwijderd is. Het probleem was alleen dat ik en niemand in de projectgroep geen idee had wat deze exceptie inhield.
+
+**Welke keuzemogelijkheden heb je?**
+
+Opzoeken op internet wat de exceptie inhoud en hier de code op aanpassen.
+
+**Welke keuze heb je gemaakt?**
+
+Optie 1: Ik heb op internet opgezocht wat deze fout inhield. De fout werd in de code veroorzaakt omdat er in de for-each objecten werden verwijderd uit de array. Dus hebben we het opgelost op de volgende manier.
 
 
-
+**Waarom heb je deze keuze gemaakt**
 
 
