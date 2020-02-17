@@ -5,6 +5,11 @@
 ## Week 2
 https://github.com/CodingWithMenno/IndividueelP3B1/blob/master/README.md#week-2
 
+## Week 3
+https://github.com/CodingWithMenno/IndividueelP3B1/blob/master/README.md#week-3
+
+## Week 4
+
 ## Week 2
 
 We hebben deze week het klassediagram gemaakt voor de festivalPlanner agenda :
