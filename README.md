@@ -47,7 +47,7 @@ Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 
 ## Week 3
 
-We zijn vandaag verder gemaakt met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. Ook heb ik samen met de rest een paar branches met elkaar gemerched, en de code aangepast aan de codestyle guide
+Er is vandaag verder gegaan met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. Ook heb ik samen met de rest een paar branches met elkaar gemerched, en de code aangepast aan de codestyle guide
 
 
 Bij het maken van de StageView klasse had ik nog wel een probleem:
@@ -68,5 +68,29 @@ Het overschrijven van het oude event door de nieuwe als deze dezelfde naam hebbe
 **Waarom heb je deze keuze gemaakt**
 
 Dit was een makkelijkere oplossing, want ik wist niet hoe je een geselecteerd item uit de listview moest opvragen en bewerken.
+
+
+---
+
+
+## Week 4
+
+Deze week is er gewerkt aan: 
+- De map maken voor de simulatie module
+- De methodes maken voor het inlezen van de map
+- bugs fixen
+- verder werken aan PVA
+
+Zelf ben ik verder gegaan aan het plan van aanpak, en de bugs fixen. Bij het plan van aanpak heb ik de koppen "Kosten en batem", "Projectorganisatie", "Tussenresultaten" & "Projectresultaat" gemaakt. Dit verliep goed.
+
+
+Bij het bugs fixen heb ik ervoor gezorgd dat: 
+- een artiest niet meerdere keren op een overlappend tijdstip kan worden ingepland.
+- als een podium word verwijderd worden alle event hierbij ook verwijderd.
+- en als een artiest word verwijderd worden alle events die bij deze artiest horen ook verwijderd.
+
+
+
+
 
 
