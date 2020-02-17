@@ -102,6 +102,28 @@ Opzoeken op internet wat de exceptie inhoud en hier de code op aanpassen.
 **Welke keuze heb je gemaakt?**
 
 Optie 1: Ik heb op internet opgezocht wat deze fout inhield. De fout werd in de code veroorzaakt omdat er in de for-each objecten werden verwijderd uit de array. Dus hebben we het opgelost op de volgende manier.
+`public void removeArtist(Artist artist){
+
+        ArrayList<Event> tempEvents = new ArrayList<>();
+
+        for ( Event event : this.events ){
+            if ( event.getHeadArtist().getName().equals(artist.getName()) || event.getCoArtist().getName().equals(artist.getName()) ){
+                tempEvents.add(event);
+            }
+        }
+
+        for (Event event : tempEvents) {
+            if (this.events.contains(event)){
+                removeEvent(event);
+            }
+        }
+        this.artists.remove(artist);
+
+        IO.writeArrayListArtist(this.artists, "resources/SavedFiles/SavedArtists.txt");
+
+        this.artists.removeAll();
+        this.artists = IO.readArtistFile("resources/SavedFiles/SavedArtists.txt");
+    }`
 
 
 **Waarom heb je deze keuze gemaakt**
