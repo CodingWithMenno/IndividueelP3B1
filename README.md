@@ -102,7 +102,10 @@ Opzoeken op internet wat de exceptie inhoud en hier de code op aanpassen.
 **Welke keuze heb je gemaakt?**
 
 Optie 1: Ik heb op internet opgezocht wat deze fout inhield. De fout werd in de code veroorzaakt omdat er in de for-each objecten werden verwijderd uit de array. Dus hebben we het opgelost op de volgende manier.
-`public void removeArtist(Artist artist){
+
+```
+{
+public void removeArtist(Artist artist){
 
         ArrayList<Event> tempEvents = new ArrayList<>();
 
@@ -123,8 +126,9 @@ Optie 1: Ik heb op internet opgezocht wat deze fout inhield. De fout werd in de 
 
         this.artists.removeAll();
         this.artists = IO.readArtistFile("resources/SavedFiles/SavedArtists.txt");
-    }`
-
+    }
+}
+```
 
 **Waarom heb je deze keuze gemaakt**
 
