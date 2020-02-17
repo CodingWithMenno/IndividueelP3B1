@@ -130,4 +130,5 @@ public void removeArtist(Artist artist){
 
 **Waarom heb je deze keuze gemaakt**
 
+Deze oplossing kwam bij mij als eerst goede idee op. Daarnaast compileert de code en is de bug nu gefixt.
 
