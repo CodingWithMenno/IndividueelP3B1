@@ -180,4 +180,4 @@ private boolean collision(Point2D position) {
 
 **Waarom heb je deze keuze gemaakt**
 
-
+Ik had eerst de eerste optie geprobeerd te implementeren door een lijn te trekken vanaf de visitor naar de target, en als dan de lijn overlapt met iets anders dan moet de visitor zijn pad aanpassen. Dit is alleen niet gelukt want ik had geen idee hoe ik het pad moest aanpassen. Daarna heb ik optie 2 geprobeerd en dit ging een stuk makkelijker met implementeren.
