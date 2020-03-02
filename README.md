@@ -148,3 +148,36 @@ Deze oplossing kwam bij mij als eerst goede idee op. Daarnaast compileert de cod
 
 ## Week 5 <a name="week5"></a>
 
+Deze week heb ik gewerkt aan de opzet van de simulatie module en aan de visitors van de simulatie module. Dit ging redelijk goed totdat ik moest implementeren dat visitors van elkaar weg moeten gaan als ze tegen elkaar lopen.
+
+**Wat is de situatie?**
+
+Bij de simulatie module moeten hitboxen worden toegevoegd aan de visitors. Deze hitboxen moeten ervoor zorgen dat visitors niet tegen elkaar lopen. Alleen dit kreeg ik niet voor elkaar.
+
+
+**Welke keuzemogelijkheden heb je?**
+
+- Zorgen dat de visitors nooit tegen elkaar aankomen.
+- Zorgen dat als visitors tegen elkaar aankomen ze gaan draaien totdat de richting waar ze naartoe kijken niemand staat.
+
+
+**Welke keuze heb je gemaakt?**
+
+Optie 2. Een visitor kijkt nu bij elke iteratie of de afstand van één van de andere visitors kleiner is dan de grootte van zichzelf.
+
+```
+private boolean collision(Point2D position) {
+        for (Visitor visitor : this.otherVisitors) {
+            if (position.distance(visitor.getPosition()) < this.hitbox.getWidth()) {
+                if (visitor != this) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+```
+
+**Waarom heb je deze keuze gemaakt**
+
+
