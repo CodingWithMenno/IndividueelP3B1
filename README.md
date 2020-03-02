@@ -148,7 +148,7 @@ Deze oplossing kwam bij mij als eerst goede idee op. Daarnaast compileert de cod
 
 ## Week 5 <a name="week5"></a>
 
-Deze week heb ik gewerkt aan de opzet van de simulatie module en aan de visitors van de simulatie module. Dit ging redelijk goed totdat ik moest implementeren dat visitors van elkaar weg moeten gaan als ze tegen elkaar lopen.
+Deze week heb ik gewerkt aan de opzet van de simulatie module, de map inladen en aan de visitors van de simulatie module. Dit ging redelijk goed totdat ik moest implementeren dat visitors van elkaar weg moeten gaan als ze tegen elkaar lopen.
 
 **Wat is de situatie?**
 
