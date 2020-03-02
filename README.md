@@ -5,6 +5,7 @@
 1. [Week 2](#week2)
 2. [Week 3](#week3)
 3. [Week 4](#week4)
+4. [Week 5](#week5)
 
 ---
 
@@ -139,4 +140,11 @@ public void removeArtist(Artist artist){
 **Waarom heb je deze keuze gemaakt**
 
 Deze oplossing kwam bij mij als eerst goede idee op. Daarnaast compileert de code en is de bug nu gefixt.
+
+
+
+---
+
+
+## Week 5 <a name="week5"></a>
 
