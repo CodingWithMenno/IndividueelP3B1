@@ -6,6 +6,7 @@
 2. [Week 3](#week3)
 3. [Week 4](#week4)
 4. [Week 5](#week5)
+5. [Week 6](#week6)
 
 ---
 
@@ -181,3 +182,11 @@ private boolean collision(Point2D position) {
 **Waarom heb je deze keuze gemaakt**
 
 Ik had eerst de eerste optie geprobeerd te implementeren door een lijn te trekken vanaf de visitor naar de target, en als dan de lijn overlapt met iets anders dan moet de visitor zijn pad aanpassen. Dit is alleen niet gelukt want ik had geen idee hoe ik het pad moest aanpassen. Daarna heb ik optie 2 geprobeerd en dit ging een stuk makkelijker met implementeren.
+
+
+---
+
+
+## Week 6 <a name="week6"></a>
+
+Deze week heb ik gewerkt aan een nieuwe map maken voor de festivalplanner, want de vorige map was niet gegenereerd naar een json-file, wat wel moest. Deze map is veel beter geworden en is gebaseerd op een echt festival.
