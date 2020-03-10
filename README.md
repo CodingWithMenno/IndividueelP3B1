@@ -190,4 +190,23 @@ Ik had eerst de eerste optie geprobeerd te implementeren door een lijn te trekke
 ## Week 6 <a name="week6"></a>
 
 Deze week heb ik gewerkt aan een nieuwe map maken voor de festivalplanner, want de vorige map was niet gegenereerd naar een json-file, wat wel moest. Deze map is veel beter geworden en is gebaseerd op een echt festival.
+
 ![alt tekst](plattegrond-woohah.jpg)
+
+Daarnaast heb ik vandaag de map ingeladen met json. Alleen dit ging erg moeizaam.
+
+**Wat is de situatie?**
+Vorige week had een ander groepslid de basis gemaakt om de map in te laden vanuit een json file, alleen dit was met de oude map gemaakt die niet uitzichzelf naar json is gegenereerd, maar met de hand is gemaakt en dit werkte niet goed. Dus moest ik het opnieuw maken. Dit ging goed, alleen kreeg ik op het laatste moment steeds een wit scherm.
+
+**Welke keuzemogelijkheden heb je?**
+-Elke regel debuggen tot ik een fout vind.
+-Een leraar om hulp vragen.
+-Een groepslid om hulp vragen.
+
+**Welke keuze heb je gemaakt?**
+Allemaal. Eerst heb ik mijn projectgroep om hulp gevraagd maar niemand begreep waarom er een wit scherm stond. Dus toen ben ik elke regel gaan debuggen, maar elke regel was steeds goed, en haalde ik de goede gegevens uit de json file. Dus toen heb ik Johan Talboom om hulp gevraagd, en na ongeveer 10 min hulp van Johan bleek het een simpel foutje te zijn. Ik had de canvas niet in de borderpane gestopt.
+
+
+**Waarom heb je deze keuze gemaakt**
+Dit leek mij en logische volgorde van handelen.
+
