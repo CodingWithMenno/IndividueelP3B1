@@ -190,4 +190,4 @@ Ik had eerst de eerste optie geprobeerd te implementeren door een lijn te trekke
 ## Week 6 <a name="week6"></a>
 
 Deze week heb ik gewerkt aan een nieuwe map maken voor de festivalplanner, want de vorige map was niet gegenereerd naar een json-file, wat wel moest. Deze map is veel beter geworden en is gebaseerd op een echt festival.
-!(alt tekst)[plattegrond-woohah.jpg]
+![alt tekst](plattegrond-woohah.jpg)
