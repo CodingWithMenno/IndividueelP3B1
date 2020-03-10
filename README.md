@@ -193,7 +193,7 @@ Deze week heb ik gewerkt aan een nieuwe map maken voor de festivalplanner, want 
 
 ![alt tekst](plattegrond-woohah.jpg)
 
-Daarnaast heb ik vandaag de map ingeladen met json. Alleen liep ik op één ding vast.
+Daarnaast heb ik vandaag de map ingeladen met json. Alleen liep ik op één ding vast (zie volgende kop). Voor de rest heb ik niet heel veel meer gedaan, want deze twee dingen hebben mij helaas de hele dag gekost.
 
 **Wat is de situatie?**
 Vorige week had een ander groepslid de basis gemaakt om de map in te laden vanuit een json file, alleen dit was met de oude map gemaakt die niet uitzichzelf naar json is gegenereerd, maar met de hand is gemaakt en dit werkte niet goed. Dus moest ik het opnieuw maken. Dit ging goed, alleen kreeg ik op het laatste moment steeds een wit scherm.
