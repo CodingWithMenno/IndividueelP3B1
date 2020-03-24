@@ -8,6 +8,9 @@
 4. [Week 5](#week5)
 5. [Week 6](#week6)
 6. [Week 7 & 8](#week78)
+7. [Week 9](#week9)
+8. [Stelling](#stelling)
+9. [JSON Websites](#json)
 
 ---
 
@@ -218,3 +221,23 @@ Dit leek mij en logische volgorde van handelen.
 ## Week 7 & 8 <a name="week78"></a>
 
 Mijn vader is de dag voordat week 7 begon overleden. Hierdoor heb ik niet in week 7 en week 8 aan school kunnen werken.
+
+
+---
+
+
+## Week 9 <a name="week9"></a>
+
+
+---
+
+
+## Stelling <a name="stelling"></a>
+
+**“In het bedrijfsleven wordt steeds meer in software gesimuleerd”**
+
+---
+
+
+## JSON Websites <a name="json"></a>
+
