@@ -244,6 +244,7 @@ Maar gebruiken bedrijven simulatie software steeds meer of blijven veel bedrijve
 Het antwoord op deze vraag heb ik niet kunnen vinden. Wel denk ik dat bedrijven meer simulatie software gebruiken. Dit komt toch omdat het veel kosten bespaard en er veel meer ruimte ontstaat voor nieuwe en innovatieve ideeën.
 
 Bron:
+
 de Groot, M. (2015, 9 april). Hoe kan simulatie software bijdragen aan betere innovaties? Geraadpleegd op 24 maart 2020, van https://blog.designsolutions.nl/hoe-kan-simulatie-software-bijdragen-aan-betere-innovaties
 
 
