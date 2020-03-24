@@ -246,7 +246,8 @@ Het antwoord op deze vraag heb ik niet kunnen vinden. Wel denk ik dat bedrijven 
 **Bron:**
 de Groot, M. (2015, 9 april). Hoe kan simulatie software bijdragen aan betere innovaties? Geraadpleegd op 24 maart 2020, van https://blog.designsolutions.nl/hoe-kan-simulatie-software-bijdragen-aan-betere-innovaties
 
-
+**Onderzoeksmethodiek:**
+Ik ben te werk gegaan door eerst meerdere bronnen te vinden die iets vertellen over de voordelen van simulatie software. Daarna heb ik de bronnen met elkaar vergeleken en de beste bron gehouden. Met deze bron heb ik uiteindelijk de stelling onderbouwd. 
 
 ---
 
