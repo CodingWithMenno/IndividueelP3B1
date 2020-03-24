@@ -215,4 +215,6 @@ Dit leek mij en logische volgorde van handelen.
 ---
 
 
-## Week 7 <a name="week78"></a>
+## Week 7 & 8 <a name="week78"></a>
+
+Mijn vader is de dag voordat week 7 begon overleden. Hierdoor heb ik niet in week 7 en week 8 aan school kunnen werken.
