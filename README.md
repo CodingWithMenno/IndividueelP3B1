@@ -254,3 +254,38 @@ Ik ben te werk gegaan door eerst meerdere bronnen te vinden die iets vertellen o
 
 ## JSON Websites <a name="json"></a>
 
+Een paar websites die JSON gebruiken:
+
+- Twitter : Als je gaat zoeken naar tweets in Twitter word er gebruikt gemaakt van JSON. Hier een voorbeeld van hun website 
+```
+"statuses": [
+    {
+      "created_at": "Wed Apr 12 04:53:25 +0000 2017",
+      "id": 852021818290352129,
+      "id_str": "852021818290352129",
+      "text": "Watch NASA's first 4K broadcast from space on April 26th - Engadget https:\/\/t.co\/EfwAYeJpjF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          
+        ],
+        "symbols": [
+          
+        ],
+        "user_mentions": [
+          
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/EfwAYeJpjF",
+            "expanded_url": "http:\/\/ift.tt\/2orifBN",
+            "display_url": "ift.tt\/2orifBN",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      ```
+
