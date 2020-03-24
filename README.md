@@ -236,7 +236,17 @@ Mijn vader is de dag voordat week 7 begon overleden. Hierdoor heb ik niet in wee
 
 *Stelling : “In het bedrijfsleven wordt steeds meer in software gesimuleerd”*
 
-Simulatie software zorgt ervoor dat productontwerpen in de praktijk getest kunnen worden zonder dat ze daadwerkelijk in de praktijk getest worden. De voordelen hiervan zijn dat het prototype niet kapot kan gaan en dat bespaard veel geld. Daarnaast kunnen simulatie software gebruikt worden voor veel verschillende producten en kunnen deze producten in veel verschillende omstandigheden getest worden. Ook is simulatie software handiger dan in de praktijk testen omdat simulatie software redelijk vaak en snel achter elkaar kan worden uitgevoerd. Het voordeel hiervan is dat je bij elke kleine aanpassing in het product het product opnieuw kan testen en producten dus kan finetunen.
+Simulatie software zorgt ervoor dat productontwerpen in de praktijk getest kunnen worden zonder dat ze daadwerkelijk in de praktijk getest worden. De voordelen hiervan zijn dat het prototype niet kapot kan gaan en dat bespaard veel geld. Daarnaast kunnen simulatie software gebruikt worden voor veel verschillende producten en kunnen deze producten in veel verschillende omstandigheden getest worden. Ook is simulatie software handiger dan in de praktijk testen omdat simulatie software redelijk vaak en snel achter elkaar kan worden uitgevoerd. Het voordeel hiervan is dat je bij elke kleine aanpassing in het product het product opnieuw kan testen en producten dus kan finetunen. Hiermee kunnen producten eerder worden gevalideerd.
+
+Door eerder te valideren komt er een beter eindproduct sneller en met lagere kosten tot stand. Ook geeft dit beter de mogelijkheid om nieuwe ideeën te testen als een alternatief. Hierdoor kan de betrouwbaarheid, kwaliteit en misschien wel de levensduur van het eindproduct verbeterd worden. 
+
+Maar gebruiken bedrijven simulatie software steeds meer of blijven veel bedrijven toch testen met "echte" prototypes? 
+Het antwoord op deze vraag heb ik niet kunnen vinden. Wel denk ik dat bedrijven meer simulatie software gebruiken. Dit komt toch omdat het veel kosten bespaard en er veel meer ruimte ontstaat voor nieuwe en innovatieve ideeën.
+
+Bron:
+de Groot, M. (2015, 9 april). Hoe kan simulatie software bijdragen aan betere innovaties? Geraadpleegd op 24 maart 2020, van https://blog.designsolutions.nl/hoe-kan-simulatie-software-bijdragen-aan-betere-innovaties
+
+
 
 ---
 
