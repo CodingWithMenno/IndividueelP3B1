@@ -7,6 +7,7 @@
 3. [Week 4](#week4)
 4. [Week 5](#week5)
 5. [Week 6](#week6)
+6. [Week 7 & 8](#week78)
 
 ---
 
@@ -210,3 +211,8 @@ Allemaal. Eerst heb ik mijn projectgroep om hulp gevraagd maar niemand begreep w
 **Waarom heb je deze keuze gemaakt**
 Dit leek mij en logische volgorde van handelen.
 
+
+---
+
+
+## Week 7 <a name="week78"></a>
