@@ -234,7 +234,9 @@ Mijn vader is de dag voordat week 7 begon overleden. Hierdoor heb ik niet in wee
 
 ## Stelling <a name="stelling"></a>
 
-**“In het bedrijfsleven wordt steeds meer in software gesimuleerd”**
+*Stelling : “In het bedrijfsleven wordt steeds meer in software gesimuleerd”*
+
+Simulatie software zorgt ervoor dat productontwerpen in de praktijk getest kunnen worden zonder dat ze daadwerkelijk in de praktijk getest worden. De voordelen hiervan zijn dat het prototype niet kapot kan gaan en dat bespaard veel geld. Daarnaast kunnen simulatie software gebruikt worden voor veel verschillende producten en kunnen deze producten in veel verschillende omstandigheden getest worden. Ook is simulatie software handiger dan in de praktijk testen omdat simulatie software redelijk vaak en snel achter elkaar kan worden uitgevoerd. Het voordeel hiervan is dat je bij elke kleine aanpassing in het product het product opnieuw kan testen en producten dus kan finetunen.
 
 ---
 
