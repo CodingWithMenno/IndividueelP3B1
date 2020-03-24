@@ -287,5 +287,43 @@ Een paar websites die JSON gebruiken:
           }
         ]
       },
-      ```
+```
+
+- YouTube : Wanneer je vraagt naar de laatst geüploade video van een gebruiker word er gebruik gemaakt van JSON.
+```
+{
+  "kind": "youtube#channelListResponse",
+  "etag": etag,
+  "nextPageToken": string,
+  "prevPageToken": string,
+  "pageInfo": {
+    "totalResults": integer,
+    "resultsPerPage": integer
+  },
+  "items": [
+    channel Resource
+  ]
+}
+```
+
+- Reddit : Wanneer er word gevraagd naar "Update and return the data of a widget" word er gebruik gemaakt van JSON.
+```
+{
+  "data": [
+    {
+      "height": an integer,
+      "linkUrl": A valid URL (optional),
+      "url": a valid URL of a reddit-hosted image,
+      "width": an integer,
+    },
+    ...
+  ],
+  "kind": one of (`image`),
+  "shortName": a string no longer than 30 characters,
+  "styles": {
+    "backgroundColor": a 6-digit rgb hex color, e.g. `#AABBCC`,
+    "headerColor": a 6-digit rgb hex color, e.g. `#AABBCC`,
+  },
+}
+```
 
