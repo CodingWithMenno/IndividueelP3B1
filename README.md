@@ -220,7 +220,7 @@ Dit leek mij en logische volgorde van handelen.
 
 ## Week 7 & 8 <a name="week78"></a>
 
-Mijn vader is de dag voordat week 7 begon overleden. Hierdoor heb ik niet in week 7 en week 8 aan school kunnen werken.
+Mijn vader is de vlak voor het begin van week 7 overleden. Hierdoor heb ik in week 7 & 8 niet aan school en het project kunnen werken.
 
 
 ---
@@ -228,6 +228,7 @@ Mijn vader is de dag voordat week 7 begon overleden. Hierdoor heb ik niet in wee
 
 ## Week 9 <a name="week9"></a>
 
+Deze week heb ik voornamelijk zitten bugtesten en gekeken of de source code effectiever kan worden geschreven zodat het programma wat soepeler draait.
 
 ---
 
