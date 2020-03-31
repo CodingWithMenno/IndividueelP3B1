@@ -32,7 +32,7 @@ Als laatste hebben we een mooi design gemaakt voor de agenda :
 
 We hebben er voor gekozen om een verschuivende agenda te maken d.m.v. 2DGraphics. Dit maakt alles erg gebruiksvriendelijk.
 
-Voor de rest ging het deze week erg goed en hebben we op de projectdag de github volledig goed opgezet, de opzet van de klassen
+Voor de rest ging het deze week erg goed en hebben we op de projectdag de github volledig goed opgezet + de opzet van de klassen
 
 ---
 
@@ -61,7 +61,7 @@ Omdat iedereen Extreme Programming in de groep fijn vond om mee te werken.
 
 ## Week 3 <a name="week3"></a>
 
-Er is vandaag verder gegaan met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. Ook heb ik samen met de rest een paar branches met elkaar gemerched, en de code aangepast aan de codestyle guide
+Er is vandaag verder gegaan met het maken van de agendamodule. Zelf heb ik de "StageView" klasse gemaakt. Hierin kan je nieuwe stages aanmaken, bewerken, verwijderen en bekijken. Ook heb ik samen met de rest een paar branches met elkaar gemerched en de code aangepast aan de codestyle guide.
 
 
 Bij het maken van de StageView klasse had ik nog wel een probleem:
