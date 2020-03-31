@@ -230,9 +230,9 @@ Mijn vader is de vlak voor het begin van week 7 overleden. Hierdoor heb ik in we
 
 Deze week heb ik voornamelijk zitten bugtesten en gekeken of de source code effectiever kan worden geschreven zodat het programma wat soepeler draait.
 
-Dit ging aan de ene kant heel goed, want na ongeveer 2 uur zoeken naar bugs zowel in de agenda module en in de simulatie module heb ik geen bugs kunnen aantreffen.
+Dit ging aan de ene kant heel goed, want na ongeveer 2 uur zoeken naar bugs zowel in de agenda module en in de simulatie module heb ik geen bugs kunnen aantreffen. Dit is erg mooi want dit betekent dat het programma werkt zoals het zou moeten werken.
 
-Helaas heb ik alleen niet de code efficiënter kunnen maken omdat ik niet heb kunnen vinden waarom de code zo langzaam draait op de computer.
+Helaas heb ik alleen niet de code efficiënter kunnen maken omdat ik niet heb kunnen vinden waarom de code zo langzaam draait op de computer. Dit is minder goed omdat het programma in de simulatie-modus nu nog steeds erg langzaam draait.
 
 ---
 
